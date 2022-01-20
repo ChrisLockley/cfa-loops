@@ -8,4 +8,4 @@
 
 //4. iterate over the string below and print out each character
 let string = "the fox jumps over the moon"; 
-
+let index = string[];
